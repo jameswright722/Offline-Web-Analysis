@@ -4,8 +4,7 @@ This project was initially created for my CS350 course at Old Dominion Universit
 
 ![Alt text](initial_uml.svg?raw=true "Title")
 
-[Original project](https://github.com/dbail014/Offline-Web-Analysis) initially created for CS350, Old Dominion Univ., Summer 2022 with original contributors githubs below:
-- jameswright722
+[Original project](https://github.com/dbail014/Offline-Web-Analysis) initially created for CS350, Old Dominion Univ., Summer 2022 with other contributor githubs below:
 - johnwasikye
 - dbail014
 - aclar074
