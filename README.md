@@ -1,6 +1,6 @@
 # Offline-Web-Analysis
 
-This project was initially created for my CS350 course at Old Dominion University, which I have removed all code that I did not write myself and further developed.
+This project was initially created for my CS350 course at Old Dominion University. I have removed all code that I did not write myself and further developed the project.
 
 ![Alt text](initial_uml.svg?raw=true "Title")
 
