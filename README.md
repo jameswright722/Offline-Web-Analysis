@@ -4,16 +4,12 @@ This project was initially created for my CS350 course at Old Dominion Universit
 
 ![Alt text](initial_uml.svg?raw=true "Title")
 
-Project initially created for CS350, Old Dominion Univ., Summer 2022 with original contributors:
+[Original project](https://github.com/dbail014/Offline-Web-Analysis) initially created for CS350, Old Dominion Univ., Summer 2022 with original contributors githubs below:
 
-James Wright:
-    Github:     jameswright722
+jameswright722
 
-John Wasikye:
-    Github:     johnwasikye
+johnwasikye
 
-Deshawn Bailey:
-    Github:     dbail014
+dbail014
 
-Brian Clark: 
-    Github:     aclar074
+aclar074
